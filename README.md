@@ -10,7 +10,7 @@ Thesis is titled "VISUALIZING KEYWORD CO-OCCURRENCE FROM TWO QUERIES TO AID EXPL
 ## example files
 Example outputs are included. There were produced in Gephi, ver 0.9.2. <br>
 
-![keyword visualization](kw_coocc_nodes only.png)
+![keyword visualization](https://github.com/poppy-nicolette/search_term_comparison/blob/main/kw_coocc_nodes%20only.png)
 
 ### Note
 Be sure to follow the steps within the notebook. There are dependencies and you may need to install libraries such as igraph. Links are provided in the notebook. 
